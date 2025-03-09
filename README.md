@@ -40,17 +40,13 @@ Le jeu comporte **trois modes** :
 
 ![Matrix Quiz](./docs/assets/matrix-quiz-image-03.png)
 
-
-
-// Ajouter vidéo demo
-
 ## 4. Circuit électronique
 
 ### Schéma
 
 ![Schéma du circuit](./docs/assets/schematics_matrix-quiz.png)
 
-### BOM
+### BOM
 
 | Réf  | Composant                                                    | Quantité | Description                                       | Fournisseur / Lien                                           |
 | :--- | :----------------------------------------------------------- | -------- | :------------------------------------------------ | :----------------------------------------------------------- |
